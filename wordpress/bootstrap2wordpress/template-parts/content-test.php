@@ -1,0 +1,1 @@
+<p>get_field in content-test.php: <?php echo(get_field('instructor_section_title')); ?></p>
